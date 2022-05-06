@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Totla System Latency
+title: Total System Latency
 parent: OSRTT Guide
 nav_oder: 11
 ---
