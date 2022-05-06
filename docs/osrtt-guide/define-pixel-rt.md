@@ -13,7 +13,7 @@ For over 20 years the definition of response time in the display market is actua
 Actually we are measuring changes in grey shade of the pixels based on how much light they let through from the backlight (for LCD displays at least), from RGB 0 (black) to 255 (white). The colour filters are applied on top so from now on we will talk about this as changes in grey shade, which is where the term “grey to grey” (G2G / GtG) comes from in the market.
 
 Represented on a graph measuring the change, it would look something like this:
-![pixel response time curve on an oscilloscope](/assets/images/osrtt-guide-images/img1.png)
+![pixel response time curve on an oscilloscope]({{site.baseurl}}/assets/images/osrtt-guide-images/img1.png)
 
 Where the bottom green line of the graph is the darker grey shade it is changing FROM, and the top green line represents the lighter grey shade it is changing TO. The light from the display is picked up by a photosensor or similar device and converted to a voltage on the graph.
 
@@ -34,5 +34,5 @@ If you want to, you can measure using this method from OSRTT by:
 
 **We do not believe that this is the best way to present this measurement data any more, and would advise using the other methods discussed below. It is included for completeness and reference.**
 
-![OSRTT settings menu - VESA standard](/assets/images/osrtt-guide-images/img2.png)
+![OSRTT settings menu - VESA standard]({{site.baseurl}}/assets/images/osrtt-guide-images/img2.png)
  

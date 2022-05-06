@@ -9,10 +9,10 @@ nav_oder: 7
 
 At the time of writing in Mar 2022 this is the method currently used by Hardware Unboxed and discussed in [their video here](https://www.youtube.com/watch?v=-Zmxl-Btpgk&feature=youtu.be). The desire is to capture as much of the response curve as possible, but eliminating some of the problems discussed above with getting very close to the desired shade, removing the issue with the slow tapering off, and also ignoring the overshoot impact in the response time figure itself. Overshoot is captured as a separate table of data, it is not just ignored.
  
-![3-97% measurement on an oscilloscope](/assets/images/osrtt-guide-images/img6.png)
+![3-97% measurement on an oscilloscope]({{site.baseurl}}/assets/images/osrtt-guide-images/img6.png)
 
 This can be selected within OSRTT using the following option:
-![3% of RGB values setting in the OSRTT software](/assets/images/osrtt-guide-images/img7.png)
+![3% of RGB values setting in the OSRTT software]({{site.baseurl}}/assets/images/osrtt-guide-images/img7.png)
  
 This avoids some of the issues in presenting the “complete response time” but also has some limitations of its own:
 

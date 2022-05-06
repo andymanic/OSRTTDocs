@@ -9,7 +9,7 @@ nav_oder: 6
 
 
 One option for the OSRTT tool is to consider the FULL transition time, the time it takes to fully change from one shade to another. This would be represented on the response curve graph as follows, measuring between the blue and the red lines without any tolerance baked in. It is the total time taken to fully change from the starting grey shade, to the target grey shade.
-![complete response time measurement on an oscilloscope](/assets/images/osrtt-guide-images/img5.png)
+![complete response time measurement on an oscilloscope]({{site.baseurl}}/assets/images/osrtt-guide-images/img5.png)
 
 This may be favoured by some people as a measure of the full transition time – but we cannot call this the “response time” really as that’s not what we are measuring any more.
 The recommendation is that if this data is to be used and presented, this should really be labelled as the **COMPLETE RESPONSE TIME**

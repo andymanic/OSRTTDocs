@@ -31,4 +31,6 @@ The guide has been produced in conjunction with several established reviewers wh
 
 ### Guide written by Simon from [TFT Central](https://tftcentral.co.uk) and notes from Andrew - [TechteamGB](https://youtube.com/techteamgb)
 
+### For any questions or advice please feel free to reach out directly to us at the following addresses: [simon@tftcentral.co.uk](mailto:simon@tftcentral.co.uk) and [inbox@techteamgb.com](mailto:inbox@techteamgb.com)
+
 {: .fs-6 .fw-300 }

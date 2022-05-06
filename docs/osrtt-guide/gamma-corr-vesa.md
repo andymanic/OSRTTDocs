@@ -10,10 +10,10 @@ nav_oder: 7
 
 There is of course the option to stick with the original 10 – 90% tolerance levels that have been used in the market for 20+ years. It is worth including the gamma correction to more accurately capture the response times relative to what you see in RGB values. This removes some of the errors in sticking only to the voltage reading on the graphs, and allows you to account for display gamma. 
  
-![10-90% measurement on an oscilloscope](/assets/images/osrtt-guide-images/img8.png)
+![10-90% measurement on an oscilloscope]({{site.baseurl}}/assets/images/osrtt-guide-images/img8.png)
 
 This can be selected within OSRTT using the following option:
-![10% of RGB values setting in the OSRTT software](/assets/images/osrtt-guide-images/img9.png)
+![10% of RGB values setting in the OSRTT software]({{site.baseurl}}/assets/images/osrtt-guide-images/img9.png)
  
 The limitations with this approach are:
 
