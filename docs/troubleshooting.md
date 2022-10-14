@@ -31,4 +31,7 @@ The data can be noisy for a number of reasons. The USB input power may be noisy,
 If your USB power is stable, then it's more likely it's the monitor that's the issue. If the noise is small separate spikes, especially at regular intervals, that's often the display refreshing (badly). Try moving the unit, or rotating it 90°. If it's just a wide noise range over otherwise clear data, that may be because the brightness level isn't set quite right. Try increasing the brightness of the display slightly and run the test again.
 
 
+# Version Rollback
+If you've recently updated to a newer version of the response time tool software or firmware and want to roll back to an earlier version, you can do so from version 3.1 onwards. It's best to uninstall your current version - making sure to backup your Results folder - then download the installer for the version you'd like to step back to. 
 
+You will then need to match the device firmware version with the software version it was designed for. You can do that by launching the software, then in the menu bar at the top clicking "Debugging Tools", then "Update Device Firmware". This will tell you the device has the newest firmware, but will ask if you want to flash the saved version anyway. Click yes, then let it install the older firmware file. Once done you should be back to the same condition prior to updating. 
